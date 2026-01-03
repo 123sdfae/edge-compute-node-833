@@ -1,0 +1,1 @@
+const util_zqqi = (d: any) => d;
